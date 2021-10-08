@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Oswald';
+	src: url(../../assets/fonts/Oswald-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/Oswald-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
