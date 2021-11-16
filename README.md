@@ -5,4 +5,4 @@
 Τμήμα Πληροφορικής & Τηλεπικοινωνιών 
 Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών
 
-[![Watch the video](https://imgur.com/a/sxO8Pf0)](https://www.youtube.com/watch?v=F01zwvbmjsE&list=PLXKopXHbhib9sAlftkMec8kKnKwxgpynv&index=4)
+[![Watch the video](https://imgur.com/gallery/sxO8Pf0)](https://www.youtube.com/watch?v=F01zwvbmjsE&list=PLXKopXHbhib9sAlftkMec8kKnKwxgpynv&index=4)
